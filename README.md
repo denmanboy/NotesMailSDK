@@ -1,2 +1,2 @@
 # NotesMailSDK
-this NotesMaiSDK for Android & ioS & PC
+this NotesMaiSDK for Android & iOS & PC
